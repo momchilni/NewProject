@@ -10,5 +10,7 @@ package newproject;
  * @author momchil.ivanov
  */
 public class NewProjectFile2 {
-    
+    public static void main(String[] args) {
+        
+    }
 }
